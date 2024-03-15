@@ -1,4 +1,4 @@
-##The Spark
+**The Spark
 **How SafeGuard initialized**
 
 As teens on the internet, we are well aware of the effects of social media on mental health. Social media consistently promotes triggering content, such as mental health disorders, eating disorders and serious topics like suicide, to young viewers. A report from the Center for Countering Digital Hate found that vulnerable teenagers’ accounts were sent **12 times as many self-harm videos** as standard accounts (The Times, 2022).
