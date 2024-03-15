@@ -1,4 +1,4 @@
-**The Spark
+##The Spark
 **How SafeGuard initialized**
 
 As teens on the internet, we are well aware of the effects of social media on mental health. Social media consistently promotes triggering content, such as mental health disorders, eating disorders and serious topics like suicide, to young viewers. A report from the Center for Countering Digital Hate found that vulnerable teenagers’ accounts were sent **12 times as many self-harm videos** as standard accounts (The Times, 2022).
@@ -53,5 +53,3 @@ We learned how to work collaboratively within a group from very diverse backgrou
 ## What's next for SafeGuard
 
 Safeguard's end goal is to take our innovative idea and turn it into a business venture. How we envision continuing our project is we plan to fully develop our Artificial Intelligence (AI) model to detect impersonators and filter out triggering content online. Our future as hackers does not stop with TechNova: all of us wish to continue advancing our programming and design skills way past the end of the program. As one of our goals, we plan to seek mentorships and funding through incubators and accelerator programs to help our seed idea grow into a potential startup.
-
-
