@@ -53,3 +53,7 @@ We learned how to work collaboratively within a group from very diverse backgrou
 ## What's next for SafeGuard
 
 Safeguard's end goal is to take our innovative idea and turn it into a business venture. How we envision continuing our project is we plan to fully develop our Artificial Intelligence (AI) model to detect impersonators and filter out triggering content online. Our future as hackers does not stop with TechNova: all of us wish to continue advancing our programming and design skills way past the end of the program. As one of our goals, we plan to seek mentorships and funding through incubators and accelerator programs to help our seed idea grow into a potential startup.
+
+
+## Check it out!
+https://devpost.com/software/safeguard-p38riq
