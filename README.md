@@ -1,5 +1,3 @@
-Figma File: https://www.figma.com/proto/sJ7I5VB2b3abiDhrhsE7M6/SafeGuard?type=design&node-id=15-91&t=izo7jvsqE8xxvck1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A91&mode=design
-
 ##The Spark
 **How SafeGuard initialized**
 
